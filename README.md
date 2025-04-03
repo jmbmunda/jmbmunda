@@ -4,7 +4,7 @@ src="https://c.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" /></a>
 </div>
 
 <h1 align="center">Hi , I'm Jmark <img src="https://thumbs.gfycat.com/ChubbyRadiantBlackfish-max-1mb.gif" width="30px" height="30px"></h1>
-<h3 align="center">I'm a self taught front-end developer passionate about creating and designing websites.</h3>
+<h3 align="center">I'm a self taught developer passionate about creating and designing websites.</h3>
 
 <br />
 
